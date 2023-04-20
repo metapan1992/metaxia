@@ -1,0 +1,52 @@
+
+
+.word{
+display: inline-block;
+   margin-top: 150px;
+   margin-left: 35%; 
+   
+   
+}
+
+.lt{
+    position: relative;
+   top:15px; 
+  margin: 0 10px;
+}
+
+.btn{
+    width: 35px;
+    border: 2px solid black;
+  
+}
+
+
+.font{
+  padding: 0 6px;
+    margin: 0 10px 0 10px;
+    font-weight: 900;
+    font-size: 25px;
+    font-family: monospace;
+}
+
+.buttons{
+    padding-top: 5%;
+    padding-left: 30%;
+}
+
+.wrongletters{
+    font-size: 25px;
+    font-weight: 900;
+    font-family: monospace;
+    margin-right: 10px;
+}
+
+@media only screen and (max-width: 1024px) {
+    .btn{
+        height: 25px;
+        width: 15px;
+        
+    }
+
+    
+  }
